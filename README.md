@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki928)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kouki928&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kouki928/kouki928** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
